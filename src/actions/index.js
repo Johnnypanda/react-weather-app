@@ -1,4 +1,5 @@
 //API key might be obsolete, make sure it's fine or replace it
+//Axios fetches an api and returns a url, just like jquery GET method
 import axios from 'axios';
 
 const API_KEY = '12d10aff5c29b4947737f39b00533f83';
